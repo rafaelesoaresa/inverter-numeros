@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, sans-serif;
+  background-image: url(../img/0mfq8TY.jpg);
+  color: #333;
+}
+main{
+    background-color: #3333337e;
+    border: solid #994ae984;
+    border-radius: 44px;
+}
+.result{
+    background-color: #f85d5d7e;
+    border: solid #ffffff84;
+    border-radius: 44px;
+    width: 556px;
+    color: aliceblue;
+}
+.custom-textbox {
+    width: 300px;
+    padding: 10px;
+    border: 2px solid #001aff7c;
+    border-radius: 22px;
+    font-size: 16px;
+    font-family: 'Rubik Iso', cursive;
+    color: #333;
+  }
+  .custom-button {
+    padding: 10px 20px;
+    background-color: #007bff84;
+    color: #fff;
+    border: none;
+    border-radius: 22px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  /* Estilo quando o botão é clicado */
+  .custom-button:active {
+    background-color: #0056b3;
+  }
